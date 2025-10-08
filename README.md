@@ -19,10 +19,10 @@ Dự án này tập trung xây dựng mô hình **GLM** để dự đoán nguy c
 
 ## 📂 Cấu trúc repo
 sleep_disorder_glm/
-├── data/ # (private) mô tả dataset
-├── notebooks/ # notebook minh họa
-├── src/ # mã nguồn Python: tiền xử lý, mô hình
-├── results/ # biểu đồ, ảnh minh họa kết quả
-├── report/ # (không up báo cáo đầy đủ)
-├── .gitignore
+├── data/ # (private) mô tả dataset  
+├── notebooks/ # notebook minh họa  
+├── src/ # mã nguồn Python: tiền xử lý, mô hình  
+├── results/ # biểu đồ, ảnh minh họa kết quả  
+├── report/ # (không up báo cáo đầy đủ)  
+├── .gitignore  
 └── README.md
