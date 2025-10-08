@@ -51,3 +51,9 @@ Có thể chạy trực tiếp bằng Python hoặc mở trong Jupyter Notebook.
 ## ✨ Tác giả
 **Nhật Minh**  
 Khoa Khoa học Ứng dụng – Trường Đại học Kinh tế - Kỹ thuật Công nghiệp (UNETI)
+
+## 📊 Kết quả minh họa
+
+Minh họa kết quả mô hình GLM dự đoán rối loạn giấc ngủ:
+
+![Kết quả mô hình](results/ten_anh.png)
