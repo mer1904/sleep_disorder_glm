@@ -66,5 +66,5 @@ Một số biểu đồ và hình ảnh minh họa trong quá trình phân tích
 
 | Tương quan biến | Phân bố dữ liệu | Kết quả mô hình |
 |:----------------:|:----------------:|:----------------:|
-| ![Heatmap](results/heatmap.png) | ![Plot](results/plot.png) | ![Sleep Disorder](results/sd.png) |
+| ![Heatmap](results/heatmap.png) | ![Plot](results/plot.png) | ![Sleep Disorder](results/inmage.png) |
 
