@@ -1,7 +1,7 @@
 # 🧠 Sleep Disorder Prediction using Generalized Linear Models (GLM)
 
-> **Đề tài NCKH sinh viên 2024 – Dự đoán rối loạn giấc ngủ bằng GLM**  
-> Tác giả: **Nhật Minh – Khoa Khoa học Ứng dụng, UNETI**
+**Đề tài NCKH sinh viên 2024 – Dự đoán rối loạn giấc ngủ bằng GLM**  
+Tác giả: **Nhật Minh – Khoa Khoa học Ứng dụng, UNETI**
 
 ---
 
@@ -20,6 +20,7 @@ Dự án này tập trung xây dựng mô hình **GLM** để dự đoán nguy c
 Dữ liệu được sử dụng trong dự án này được tải từ [Kaggle](https://www.kaggle.com/...), chỉ dùng cho mục đích học tập và nghiên cứu.  
 Do giới hạn bản quyền, dữ liệu **không được đính kèm trực tiếp** trong repo này.  
 
+---
 ## 📂 Cấu trúc repo
 sleep_disorder_glm/  
 ├── data/ # (private) mô tả dataset  
@@ -28,4 +29,25 @@ sleep_disorder_glm/
 ├── results/ # biểu đồ, ảnh minh họa kết quả  
 ├── report/ # (không up báo cáo đầy đủ)  
 ├── .gitignore  
-└── README.md
+└── README.md  
+
+
+---
+
+## ⚙️ Cách chạy
+Các file mã nguồn nằm trong thư mục `src/`.  
+Có thể chạy trực tiếp bằng Python hoặc mở trong Jupyter Notebook.  
+
+---
+
+## 🧰 Công nghệ sử dụng
+- Python 3.x  
+- statsmodels  
+- pandas, numpy  
+- matplotlib, seaborn  
+
+---
+
+## ✨ Tác giả
+**Nhật Minh**  
+Khoa Khoa học Ứng dụng – Trường Đại học Kinh tế - Kỹ thuật Công nghiệp (UNETI)
