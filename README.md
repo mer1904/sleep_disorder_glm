@@ -54,6 +54,17 @@ Khoa Khoa học Ứng dụng – Trường Đại học Kinh tế - Kỹ thuật
 
 ## 📊 Kết quả minh họa
 
-Minh họa kết quả mô hình GLM dự đoán rối loạn giấc ngủ:
+Một số biểu đồ và hình ảnh minh họa trong quá trình phân tích:
 
-![Kết quả mô hình](results/ten_anh.png)
+| Phân tích độ tuổi | Nhóm tuổi | Giới tính |
+|:-----------------:|:----------:|:----------:|
+| ![Age](results/age.png) | ![AgeGroup](results/agegroup.png) | ![Gender](results/gender.png) |
+
+| Nghề nghiệp | BMI | Rối loạn giấc ngủ - BMI |
+|:------------:|:----:|:-----------------------:|
+| ![Occupation](results/occupation.png) | ![BMI](results/BMI.png) | ![SDBMI](results/sdbmisd.png) |
+
+| Tương quan biến | Phân bố dữ liệu | Kết quả mô hình |
+|:----------------:|:----------------:|:----------------:|
+| ![Heatmap](results/heatmap.png) | ![Plot](results/plot.png) | ![Sleep Disorder](results/sd.png) |
+
